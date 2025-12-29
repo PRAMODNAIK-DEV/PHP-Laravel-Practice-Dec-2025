@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Welcome Pramod</h1>
-    <a href={{  url('/dashboard')}} > Go Back</a>
+    <a href={{  url('/login')}} > Login</a>
+    <a href={{  url('/register')}} > Register</a>
 </body>
 </html>
